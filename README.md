@@ -1,4 +1,4 @@
-# Chrome Extionsons Test
+# Chrome Extensions Test
 
 ### TBCopy
 
